@@ -10,15 +10,15 @@ export const project = [
     name: "Crypto-Cracker",
     desc: "It is a reat time crypto tracker app. It provides a user-friendly interface to track the latest prices, market trends, and historical data for various cryptocurrencies. Whether you're a seasoned trader or a crypto enthusiast, this app will keep you informed and help you make informed decisions.",
     skills: "ReactJs, Firebase, Chart.js, MaterialUI,",
-    link: "https://github.com/Mr-Sharma01/crypto-cracker",
+    link: "https://github.com/Mr-Sharma01/crypto-crackr",
     demo: "https://lnkd.in/dhNiAtTE",
   },
   {
     name: "Developer’s Portfolio",
     desc: "Software Developer Portfolio Template built with react.js that helps you showcase your work and skills as a software developer.",
     skills: "ReactJs",
-    link: "https://github.com/Mr-Sharma01/portfolio",
-    demo: "https://mr-sharma01.github.io/portfolio/",
+    link: "https://github.com/raiabhi07/web-profile",
+    demo: "https://raiabhi07.github.io/web-profile/",
   },
   {
     name: "Weather-App",
