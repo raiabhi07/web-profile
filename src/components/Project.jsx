@@ -3,8 +3,8 @@ export const project = [
     name: "Baat-Cheet",
     desc: "A real-time chat application which creates a seamless user experience with instant messaging and notifications chat app. Implemented features such as user authentication and data persistence using MongoDB. Utilized WebSocket technology for efficient data transfer and real-time communication between clients and server.",
     skills: "ReactJs, ExpressJs, NodeJs, MongoDB, WebSocket.io, JSON Web Tokens (JWT). ",
-    link: "https://github.com/Mr-Sharma01/chat-app",
-    demo: "https://mr-sharma01.github.io/chat-app/",
+    link: "https://github.com/raiabhi07/Chat_app",
+    demo: "https://github.com/raiabhi07/Chat_app",
   },
   {
     name: "Crypto-Cracker",
