@@ -17,13 +17,13 @@ export const Icons = [
     //     icon: faTwitter,
     //     name: "Twitter",
     //     BGcolor: "#1da1f2",
-    //     link: "https://twitter.com/Yuvi_A12"
+    //     link: "https://twitter.com/"
     // },
     // {
     //     icon: faCodepen,
     //     name: "CodeStudio",
     //     BGcolor: "#000",
-    //     link: "https://www.codingninjas.com/studio/profile/731ab155-23a7-4a66-b9a9-6cc3ad4f2d17"
+    //     link: ""
     // },
     {
         icon: faGithub,
